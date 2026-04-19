@@ -11,7 +11,7 @@
 <p>
   <a href="mailto:ysf.el7711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/ysf-el"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/youssefeleyouta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yousef-s-e-ab3224367/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
